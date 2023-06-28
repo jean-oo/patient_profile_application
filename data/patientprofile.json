@@ -1,0 +1,46 @@
+{
+    "patient name": "Jean",
+    "cases": [
+        {
+            "diagnose date": 20180308,
+            "doctor name": "joy",
+            "symptom details": "headache",
+            "hospital": "no.1",
+            "illness": "cold"
+        },
+        {
+            "diagnose date": 20190130,
+            "doctor name": "amy",
+            "symptom details": "cough",
+            "hospital": "no.2",
+            "illness": "cold"
+        },
+        {
+            "diagnose date": 20201001,
+            "doctor name": "james",
+            "symptom details": "hyperthermia",
+            "hospital": "no.3",
+            "illness": "fever"
+        },
+        {
+            "diagnose date": 20201030,
+            "doctor name": "K",
+            "symptom details": "cough",
+            "hospital": "No.4",
+            "illness": "covid-19"
+        },
+        {
+            "diagnose date": 20200908,
+            "doctor name": "Cara",
+            "symptom details": "chestpain",
+            "hospital": "No.5",
+            "illness": "stomache"
+        }
+    ],
+    "patient birthday": 19990716,
+    "medications": [
+        {"medication name": "penicillin"},
+        {"medication name": "aspirin"}
+    ],
+    "patient gender": "f"
+}

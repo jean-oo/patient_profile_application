@@ -1,0 +1,13 @@
+{
+    "patient name": "Ning",
+    "cases": [{
+        "diagnose date": 20180308,
+        "doctor name": "Joy",
+        "symptom details": "headache",
+        "hospital": "No.1 hospital",
+        "illness": "cold"
+    }],
+    "patient birthday": 19990526,
+    "medications": [],
+    "patient gender": "female"
+}

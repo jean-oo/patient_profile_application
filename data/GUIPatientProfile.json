@@ -1,0 +1,43 @@
+{
+    "patient name": "Jane",
+    "cases": [
+        {
+            "diagnose date": 20200202,
+            "doctor name": "jason",
+            "symptom details": "headache",
+            "hospital": "no.3",
+            "illness": "fever"
+        },
+        {
+            "diagnose date": 20200201,
+            "doctor name": "a",
+            "symptom details": "a",
+            "hospital": "a",
+            "illness": "fever"
+        },
+        {
+            "diagnose date": 20200909,
+            "doctor name": "q",
+            "symptom details": "q",
+            "hospital": "q",
+            "illness": "q"
+        },
+        {
+            "diagnose date": 20200101,
+            "doctor name": "h",
+            "symptom details": "h",
+            "hospital": "h",
+            "illness": "h"
+        },
+        {
+            "diagnose date": 2,
+            "doctor name": "w",
+            "symptom details": "w",
+            "hospital": "w",
+            "illness": "w"
+        }
+    ],
+    "patient birthday": 19990716,
+    "medications": [{"medication name": "aspirin"}],
+    "patient gender": "Female"
+}
